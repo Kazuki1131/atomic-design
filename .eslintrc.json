@@ -21,6 +21,7 @@
 				}
 			}
 		],
+		"indent": ["error", "tab"],
 		"prettier/prettier": [
 			"error",
 			{
@@ -28,7 +29,8 @@
 				"endOfLine": "lf",
 				"singleQuote": true,
 				"printWidth": 80,
-				"tabWidth": 2
+				"tabWidth": 2,
+				"useTabs": true
 			}
 		]
 	}
